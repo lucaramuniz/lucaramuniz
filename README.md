@@ -1,10 +1,10 @@
-## Hello! I am Miguel Reis
+## Olá! Sou Lucas Muniz!
 
-Welcome to my GitHub profile!
+Bem vindo ao meu perfil do GitHub
 
-### About me
+### Sobre mim
 
-#### Professional and Academic Status
+#### Status de Profissional e Acadêmico
 
 :infinity: Infraestrutura de Ti na HubLocal :cloud:
 
