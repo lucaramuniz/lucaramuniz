@@ -1,6 +1,4 @@
-## Olá! Sou Lucas Muniz!
-
-Bem vindo ao meu perfil do GitHub
+## Bem vindo ao meu perfil do GitHub!
 
 ### Sobre mim
 
