@@ -40,7 +40,7 @@
 * [Certification at BootCamp Cloud DevOps Experience - Banco Carrefour by Digital Innovation One (DIO)](https://hermes.dio.me/certificates/D7F89F4B.pdf?_gl=1*1j9y1s9*_gcl_aw*R0NMLjE3MTAwMDUzODAuQ2owS0NRaUFyckN2QmhDTkFSSXNBT2tBR2NYMEZLbjRvTFktV28wUWUtWjdKUjFBdGRBYi1zOTB0dTd4X05oc0RmTWF6NzVsNml2SFVPa2FBdE5YRUFMd193Y0I.*_gcl_au*MTA4MjExNTk2Ni4xNzEwMDA1Mzc5)
 * [Completing studies in the DevOps culture with Docker, Kubernetes, Terraform, Vagrant, CI/CD (GitLab, AzureDevOps), Git following good practices from the TrilhaInfo roadmap](https://trilha.info/roadmap/devops)
 * Systems Development in Docker and ShellScript
-* Iniciando os estudos de Segurança da Informação e Cibersegurança
+* Starting Information Security and Cybersecurity studies
   
 ### How to find me
 
