@@ -36,9 +36,10 @@
 
 ## My latest activities
 * [Active Directory and network infrastructure at HubLocal(WIP)](https://hublocal.com.br/)
-* [Certification in the Microsoft Active Directory 2019 course by Udemy](https://www.udemy.com/certificate/UC-56cc493e-b737-471d-ae84-331091db5fdb/)
+* [Certification at Microsoft Active Directory 2019 course by Udemy Inc](https://www.udemy.com/certificate/UC-56cc493e-b737-471d-ae84-331091db5fdb/)
 * [Certification at BootCamp Cloud DevOps Experience - Banco Carrefour by Digital Innovation One (DIO)](https://hermes.dio.me/certificates/D7F89F4B.pdf?_gl=1*1j9y1s9*_gcl_aw*R0NMLjE3MTAwMDUzODAuQ2owS0NRaUFyckN2QmhDTkFSSXNBT2tBR2NYMEZLbjRvTFktV28wUWUtWjdKUjFBdGRBYi1zOTB0dTd4X05oc0RmTWF6NzVsNml2SFVPa2FBdE5YRUFMd193Y0I.*_gcl_au*MTA4MjExNTk2Ni4xNzEwMDA1Mzc5)
-* [Completing studies in the DevOps culture with Docker, Kubernetes, Terraform, Vagrant, CI/CD (GitLab, AzureDevOps), Git following good practices from the TrilhaInfo roadmap](https://trilha.info/roadmap/devops)
+* [Completing studies at DevOps BootCamp: Trilha de aprendizado rápido [All-in-one] bootcamp by Udemy Inc]
+* [Completing studies in the DevOps culture following good practices from the TrilhaInfo roadmap](https://trilha.info/roadmap/devops)
 * Systems Development in Docker and ShellScript
 * Starting Information Security and Cybersecurity studies
   
