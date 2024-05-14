@@ -2,7 +2,7 @@
 
 ### About me:
 
-✔ I am an IT Professional with 2 years of experience in the technology area and am currently migrating to the DevOps area.
+✔ I am an IT Professional with 2 years of experience in the technology area and am currently migrating to the DevOps culture and Cybersecurity area.
 
 #### Professional and Academic Status
 
