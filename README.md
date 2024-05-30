@@ -2,7 +2,7 @@
 
 ### About me:
 
-✔ Computer Networks Technician from the Estácio de Sá University Center. Experienced with web systems, DevOps tools, Cybersecurity and IT infrastructure
+✔ Computer Networks technologist from the Estácio de Sá University Center. Experienced with web systems, DevOps tools, Cybersecurity and IT infrastructure
 
 #### Professional and Academic Status
 
