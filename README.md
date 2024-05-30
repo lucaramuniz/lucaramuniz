@@ -2,7 +2,7 @@
 
 ### About me:
 
-✔ I am an IT Professional with 2 years of experience in the technology area and am currently migrating to the DevOps culture and Cybersecurity area.
+✔ Computer Networks Technician from the Estácio de Sá University Center. Experienced with web systems, DevOps tools, Cybersecurity and IT infrastructure
 
 #### Professional and Academic Status
 
