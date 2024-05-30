@@ -6,7 +6,7 @@
 
 #### Professional and Academic Status
 
-:infinity: Network Assistant at [HubLocal](https://www.hublocal.com.br/) :cloud:
+:infinity: IT Assistant at [HubLocal](https://www.hublocal.com.br/) :cloud:
 
 :globe\_with\_meridians: Graduated in Computer Networks from Centro-Universário Estácio de Sá
 
