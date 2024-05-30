@@ -6,15 +6,15 @@
 
 #### Professional and Academic Status
 
-:infinity: Network Assistant at HubLocal :cloud:
+:infinity: Network Assistant at [HubLocal](https://www.hublocal.com.br/) :cloud:
 
 :globe\_with\_meridians: Graduated in Computer Networks from Centro-Universário Estácio de Sá
 
 
 <div align="center">
-  <a href="https://github.com/ninomunich">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ninomunich&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ninomunich&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://github.com/lucaramuniz">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucaramuniz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucaramuniz&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 
