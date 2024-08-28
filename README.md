@@ -35,7 +35,7 @@
  <img align="center" alt="NMunich-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ## My latest activities
-* [Cybersecurity Analyst](http://www.spcombustiveis.com/)
+* [Cybersecurity Analyst and LGPD at SP Industrias e Distribuição de Combustiveis](https://www.spcombustiveis.com/)
 * [Active Directory and network infrastructure at HubLocal(WIP)](https://hublocal.com.br/)
 * [Certification at Microsoft Active Directory 2019 course by Udemy Inc.](https://www.udemy.com/certificate/UC-56cc493e-b737-471d-ae84-331091db5fdb/)
 * [Certification at BootCamp Cloud DevOps Experience - Banco Carrefour by Digital Innovation One (DIO)](https://hermes.dio.me/certificates/D7F89F4B.pdf?_gl=1*1j9y1s9*_gcl_aw*R0NMLjE3MTAwMDUzODAuQ2owS0NRaUFyckN2QmhDTkFSSXNBT2tBR2NYMEZLbjRvTFktV28wUWUtWjdKUjFBdGRBYi1zOTB0dTd4X05oc0RmTWF6NzVsNml2SFVPa2FBdE5YRUFMd193Y0I.*_gcl_au*MTA4MjExNTk2Ni4xNzEwMDA1Mzc5)
