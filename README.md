@@ -6,7 +6,7 @@
 
 #### Professional and Academic Status
 
-:infinity: Cybersecurity Analyst at [SP Combustiveis](https://www.spcombustiveis.com/) :cloud:
+:infinity: InfoSec Analyst JR at [SP Combustiveis](https://www.spcombustiveis.com/) :cloud:
 
 :globe\_with\_meridians: Graduated in Computer Networks from Centro-Universário Estácio de Sá
 
