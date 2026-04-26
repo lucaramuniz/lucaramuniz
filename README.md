@@ -8,6 +8,8 @@
 
 :infinity: InfoSec Analyst JR at [SP Combustiveis](https://www.spcombustiveis.com/) :cloud:
 
+:globe\_with\_meridians: Postgraduate student in Offensive Cybersecurity at Acadi-TI college (Expected graduation Oct/27)
+
 :globe\_with\_meridians: Graduated in Computer Networks from Centro-Universário Estácio de Sá
 
 
